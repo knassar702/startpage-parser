@@ -1,5 +1,5 @@
 # startpage-parser
-parsing search results from startpage search engine (based on google.com)
+parsing search results from startpage search engine (based on google.com results)
 
 
 ### INSTALL
