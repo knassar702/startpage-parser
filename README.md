@@ -1,5 +1,5 @@
 # startpage-parser
-parsing search results from startpage search engine (startpage.com)
+parsing search results from startpage search engine (based on google.com)
 
 
 ### INSTALL
@@ -27,3 +27,4 @@ code
 ```
 
 <img src="https://i.ibb.co/YphfFjj/2.png" alt="2" border="0">
+<img src="https://i.ibb.co/wW9WPmb/3.png" alt="3" border="0">
