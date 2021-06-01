@@ -1,5 +1,6 @@
 # startpage-parser
 parsing search results from startpage search engine (based on google.com results)
+you can use it if you need gsome oogle results without get banned from google
 
 <img src="https://i.ibb.co/pxbCQdm/Untitled-Diagram.png" alt="Untitled-Diagram" border="0" width="600" height="150" align=center>
 
