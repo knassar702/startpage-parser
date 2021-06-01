@@ -32,7 +32,7 @@ $ pip install -e .
 
 ### examples
 
-```
+```python
 from startpage import StartPage
 
 task = StartPage()
